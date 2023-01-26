@@ -180,9 +180,10 @@ Nᴀᴍᴇ - {}"""
 
 ❗<b>Size</b> : <code>{file_size}</code>
 
-╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+<b>╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ♻️ 𝙅𝙊𝙄𝙉 :- @TGFilmsupdates
-♻️ 𝙅𝙊𝙄𝙉 :- @TGFilmsupdates
+♻️ 𝙅𝙊𝙄𝙉 :- @TGFilmsRobot
+♻️ 𝙅𝙊𝙄𝙉 :- @Moviesearchx1bot
 ╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
